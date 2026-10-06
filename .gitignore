@@ -1,0 +1,8 @@
+# Environment / configuration file
+.env
+
+# Ignore all log files
+*.log
+
+# ...except Important.log
+!Important.log
